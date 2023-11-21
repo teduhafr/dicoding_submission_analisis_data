@@ -18,4 +18,4 @@ streamlit run ./dashboard/dashboard.py
 
 ## Alamat Cloud
 
-[Link](https://belajarolahdatapython-wmkweytmh46ub5zh2n85oh.streamlit.app/)
+[https://teduh-submission-dicoding.streamlit.app/](https://https://teduh-submission-dicoding.streamlit.app//)
